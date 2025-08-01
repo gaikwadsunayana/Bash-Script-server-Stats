@@ -1,4 +1,3 @@
-﻿# Bash-Script-server-Stats
 
 ## Let's have a look on how to use the script
 
