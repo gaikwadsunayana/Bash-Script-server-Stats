@@ -18,4 +18,4 @@ vim <script_name>.sh
 ```
 
 ## LINK FOR SCRIPT
-https://github.com/gaikwadsunayana/Bash-Script-server-Stats.git
+[https://github.com/gaikwadsunayana/Bash-Script-server-Stats.git](https://github.com/gaikwadsunayana/Bash-Script-server-Stats/blob/master/server-stats.sh)
