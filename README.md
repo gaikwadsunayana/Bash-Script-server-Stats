@@ -16,3 +16,6 @@ vim <script_name>.sh
  ```
    ./<script_name> 
 ```
+
+## LINK FOR SCRIPT
+https://github.com/gaikwadsunayana/Bash-Script-server-Stats.git
